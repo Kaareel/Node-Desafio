@@ -11,7 +11,7 @@ const selectFunction = (operacion) => {
         archivos()
     }
     else {
-        console.log("you need to register the patiente")
+        console.log("necesitas registrar un paciente")
     }
 }
 selectFunction(argumentos[0]);
